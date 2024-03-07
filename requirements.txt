@@ -1,0 +1,9 @@
+colorama==0.4.6
+distlib==0.3.7
+filelock==3.13.1
+iniconfig==2.0.0
+packaging==23.2
+platformdirs==4.0.0
+pluggy==1.4.0
+pytest==8.0.2
+virtualenv==20.24.7
